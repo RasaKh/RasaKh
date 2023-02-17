@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![RasaKh GitHub Stats](https://server.dooboo.io/github-stats-advanced/RasaKh)
 <!--
 **RasaKh/RasaKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
