@@ -1,17 +1,18 @@
-### Hi there 👋
-#### Please visit [my website](https://khosrofar.me) for live running versions of the code here on my own server 
-[RasaKh GitHub Stats](https://server.dooboo.io/github-stats-advanced/RasaKh)
-<!--
-**RasaKh/RasaKh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rasa Khosrofar, M.D.
 
-Here are some ideas to get you started:
+Medical doctor, biomedical researcher and Python/applied AI engineer based in Istanbul.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Portfolio, publications and live hosted apps: [khosrofar.me](https://khosrofar.me) | [ORCID 0009-0006-6021-5048](https://orcid.org/0009-0006-6021-5048)
+
+## Live projects on my server
+
+- [Shortcut Pathology](https://pathlens.khosrofar.me) ([source](https://github.com/RasaKh/pathlens)): CNN shortcut learning, hospital stain shift and linear probes on the Phikon pathology foundation model (PathMNIST and Camelyon17-WILDS).
+- [Macrophage stimulation from gene expression](https://macrophage-ml.khosrofar.me) ([source](https://github.com/RasaKh/macrophage-ml)): donor-held-out evaluation of linear models, boosted trees and a small PyTorch network on GEO GSE46903.
+- [Macrophage programs in carotid plaque](https://macrophage.khosrofar.me): single-cell reanalysis of 15 carotid plaques (GSE260657). The interactive view compares patient-level and cell-level inference.
+- [LabForge](https://labforge.khosrofar.me) ([source](https://github.com/RasaKh/labdesk)): Flask and SQLite research workbench for literature screening, assumption-checked statistics, figures and reproducibility bundles (working demo, active development).
+- [NeuroRegen Tracker](https://tracker.khosrofar.me) ([source](https://github.com/RasaKh/neuroregen-tracker-flask)): ClinicalTrials.gov API v2 dashboard for cell-based studies in neurodegeneration and CNS injury.
+- [Horizon](https://horizon.khosrofar.me): real-time WebGL2 ray tracer for Schwarzschild and Kerr black holes, checked against a Python reference solver.
+
+## Other work
+
+I also run self-hosted Python services and Linux infrastructure on Oracle Cloud (ARM64), build LLM and agent tooling, and write first-author biomedical reviews in stem cell therapy, autoimmunity and developmental neuroscience. Full papers, experience and contact details are on [khosrofar.me](https://khosrofar.me).
