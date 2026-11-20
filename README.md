@@ -11,7 +11,7 @@ Portfolio, publications and live hosted apps: [khosrofar.me](https://khosrofar.m
 - [Macrophage programs in carotid plaque](https://macrophage.khosrofar.me): single-cell reanalysis of 15 carotid plaques (GSE260657). The interactive view compares patient-level and cell-level inference.
 - [LabForge](https://labforge.khosrofar.me) ([source](https://github.com/RasaKh/labdesk)): Flask and SQLite research workbench for literature screening, assumption-checked statistics, figures and reproducibility bundles (working demo, active development).
 - [NeuroRegen Tracker](https://tracker.khosrofar.me) ([source](https://github.com/RasaKh/neuroregen-tracker-flask)): ClinicalTrials.gov API v2 dashboard for cell-based studies in neurodegeneration and CNS injury.
-- [Horizon](https://horizon.khosrofar.me): real-time WebGL2 ray tracer for Schwarzschild and Kerr black holes, checked against a Python reference solver.
+- [Crowcall](https://crowcall.khosrofar.me) ([source](https://github.com/RasaKh/crowcall)): off-grid store-and-forward voice, text, and file radio messenger built on Codec2 and the aicodix OFDM modem, with selective ARQ and link-health adaptation.
 
 ## Other work
 
