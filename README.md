@@ -16,3 +16,7 @@ Portfolio, publications and live hosted apps: [khosrofar.me](https://khosrofar.m
 ## Other work
 
 I also run self-hosted Python services and Linux infrastructure on Oracle Cloud (ARM64), build LLM and agent tooling, and write first-author biomedical reviews in stem cell therapy, autoimmunity and developmental neuroscience. Full papers, experience and contact details are on [khosrofar.me](https://khosrofar.me).
+
+## GitHub Activity
+
+![GitHub Metrics](./github-metrics.svg)
